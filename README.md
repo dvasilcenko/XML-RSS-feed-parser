@@ -18,14 +18,14 @@ For those who want to examine the code I personally wrote, please check files be
 
 [parse.php](parse.php)
 
-[controllers/MainController.php](controllers/MainController.php)
+[controllers/MainController.php](src/controllers/MainController.php)
 
-[models/QueryBuilder.php](models/QueryBuilder.php)
+[models/QueryBuilder.php](src/models/QueryBuilder.php)
 
-[models/Feed.php](models/Feed.php)
+[models/Feed.php](src/models/Feed.php)
 
-[models/Item.php](models/Item.php)
+[models/Item.php](src/models/Item.php)
 
-[views/index.views.php](views/index.views.php)
+[views/index.views.php](src/views/index.views.php)
 
-[views/category.views.php](views/category.views.php)
+[views/category.views.php](src/views/category.views.php)
